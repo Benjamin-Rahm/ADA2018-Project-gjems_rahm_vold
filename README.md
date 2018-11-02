@@ -1,7 +1,4 @@
-# Uncovering the Liars in the Political Scene in America
-
-Fake News of America
-
+# Uncovering the Liars in the Political Scene of America
 
 ## Abstract
 In the current era of social media and instant connectivity, the impact of fake news is greater than ever. Not only does it pose a threat to the integrity of journalism, it also creates disturbances and uncertainties in the political world. What's alarming is when people believe what they read, and act upon it. For these reasons, we want to put the spotlight on fake news. More specifically, we will examine the distribution of fake news in the political life of America. In order to achieve this, we will use the liar dataset for fake news detection, created by William Yang Wang. The goal is to find patterns in the generation of fakes news, considering different parties, political levels, states and topics.
