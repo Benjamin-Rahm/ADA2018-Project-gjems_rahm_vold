@@ -23,8 +23,11 @@ The dataset consists of three tsv-files: train.tsv, valid.tsv, and testing.tsv, 
 _List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant._
 
 # A list of internal milestones up until project milestone 2
-- Find a dataset with additional data (e.g. demographical) to complement the liar dataset.
+- Load the data into a dataframe and initial analysis to get familiarized with the data.
+- Extract the information relevsnt to answer the research questions
+
 - Find the answers to the research questions or at least a draft answer.
+- Find a dataset with additional data (e.g. demographical) to complement the liar dataset.
 - Start the vizualization of the acquired results.
 
 _Add here a sketch of your planning for the next project milestone._
