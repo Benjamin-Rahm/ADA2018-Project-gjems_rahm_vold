@@ -24,11 +24,9 @@ _List the dataset(s) you want to use, and some ideas on how do you expect to get
 
 # A list of internal milestones up until project milestone 2
 - Load the data into a dataframe and initial analysis to get familiarized with the data.
-- Extract the information relevsnt to answer the research questions
-
-- Find the answers to the research questions or at least a draft answer.
-- Find a dataset with additional data (e.g. demographical) to complement the liar dataset.
-- Start the vizualization of the acquired results.
+- Extract the information relevant to answer the research questions.
+- Find additional data to complement the liar dataset, e.g. state population counts.
+- Try different vizualization methods for presenting our data, and select the most efficient one.
 
 _Add here a sketch of your planning for the next project milestone._
 
