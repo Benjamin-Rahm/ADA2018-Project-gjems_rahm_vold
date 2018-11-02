@@ -15,7 +15,10 @@ _A 150 word description of the project idea, goals, dataset used. What story you
 _A list of research questions you would like to address during the project._
 
 # Dataset
-Liar Dataset:
+["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://www.cs.ucsb.edu/~william/papers/acl2017.pdf) by William Yang Wang, Department of Computer Science, University of California, Santa Barbara
+
+Includes 12,836 short statements labeled for truthfulness, subject, context/venue, speaker, state, and party.
+The dataset consists of three tsv-files: train.tsv, valid.tsv, and testing.tsv, used for training, validation, and testing (respectively) of the machine learning models. We expect to use all the tsv-files, and to load the data (3 MB) into a Pandas DataFrame for further processing and analysis.
 
 _List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant._
 
@@ -27,4 +30,6 @@ _List the dataset(s) you want to use, and some ideas on how do you expect to get
 _Add here a sketch of your planning for the next project milestone._
 
 # Questions for TAs
+None so far.
+
 _Add here some questions you have for us, in general or project-specific._
