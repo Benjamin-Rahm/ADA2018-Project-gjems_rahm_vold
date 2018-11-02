@@ -7,10 +7,10 @@ Uncoverning the liars in the political scene in America
 _A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?_
 
 # Research questions
-- Which party lies the most?
-- Who lies the most at each political level (presidents, senators, ...)?
-- In which states do politicians lie more? Is there a noticeable difference between urban and rural states?
-- Which subject is mostly lied about?
+- Is there any difference in the lying patterns of the republicans, democrats and independants?
+- Is there any difference in the lying patterns at the different political levels (presidents, senators, ...)?
+- Are there states where politicians tend to lie more? Is there a noticeable difference between urban and rural states?
+- Which subjects are most often ~~subjected~~ to lies?
 
 _A list of research questions you would like to address during the project._
 
