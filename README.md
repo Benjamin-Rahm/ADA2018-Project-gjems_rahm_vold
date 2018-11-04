@@ -12,8 +12,7 @@ In the current era of social media and instant connectivity, the impact of fake 
 ## Dataset
 ["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://www.cs.ucsb.edu/~william/papers/acl2017.pdf) by William Yang Wang, Department of Computer Science, University of California, Santa Barbara
 
-Includes 12,836 short statements labeled for truthfulness, topic, context/venue, speaker, state, and party.
-The dataset consists of three tsv-files: train.tsv, valid.tsv, and testing.tsv, used for training, validation, and testing (respectively) of the machine learning models. We expect to use all the tsv-files, and to load the data (3 MB) into a Pandas DataFrame for further processing and analysis.
+The dataset includes 12,836 short statements labeled for truthfulness, topic, context/venue, speaker, state, and party. It consists of three tsv-files: train.tsv, valid.tsv, and testing.tsv, used for training, validation, and testing (respectively) of the machine learning models. We expect to use all the tsv-files, and to load the data (3 MB) into a Pandas DataFrame for further processing and analysis.
 
 ## A list of internal milestones up until project milestone 2
 - __Week 1__: Load the data into a dataframe and initial analysis to get familiarized with the data.
