@@ -23,3 +23,17 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
 
 ## Questions for TAs
 None so far.
+
+## Update at milestone 2
+
+Based on the analysis we carried for milestone 2 and the feedback from our assigned TA, we changed the direction of this project in order to focus more on the statements themselves and what we could get out of them. As a consequence, our research questions are now the following:
+
+- Using NLTK (Natural Language Toolkit) and RAKE (Rapid Automatic Keyword Extraction) to analyze the corpus, we will find key phrases, discover buzzwords, and so on.
+
+- Explore and visualize the data by making a word cloud (using WordCloud).
+
+- Explore the relationships between the speakers with the help of NetworkX to create a directed graph.
+
+- See if there are topics that only republicans, or only democrats, lie about, and which topics that are subjected to lies by both parties.
+
+- Find out what topic is most prominent to lies in each state and show it by using Folium to create a map with interactive markers.
