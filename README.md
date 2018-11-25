@@ -34,10 +34,10 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
   - Create the word cloud
   - Make the directed graph with NetworkX
 - __Week 2__: 
-  - Create the map with Folium
+  - Create the Folium-map
   - Explore the distribution of topics subjected to fake news between republicans and democrats
 - __Week 3__:
-  - Write a data story with Jekyll. 
+  - Write a data story with Jekyll
 
 ## Questions for TAs
 None so far.
