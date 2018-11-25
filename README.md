@@ -29,9 +29,15 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
 - __Week 3__: Try different vizualization methods for presenting our data, and select the most efficient one.
 
 ## A list of internal milestones up until project Milestone 3
-- __Week 1__: Analyze the corpus with NLTK and RAKE, create the word cloud, and make the directed graph with NetworkX.
-- __Week 2__: Create the map with Folium, and explore the distribution of topics subjected to fake news between republicans and democrats.
-- __Week 3__: Write a data story with Jekyll. 
+- __Week 1__: 
+  - Analyze the corpus with NLTK and RAKE
+  - Create the word cloud
+  - Make the directed graph with NetworkX
+- __Week 2__: 
+  - Create the map with Folium
+  - Explore the distribution of topics subjected to fake news between republicans and democrats
+- __Week 3__:
+  - Write a data story with Jekyll. 
 
 ## Questions for TAs
 None so far.
