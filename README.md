@@ -22,11 +22,13 @@ Based on the data analysis we carried out for Milestone 2 and the feedback from 
 The dataset includes 12,836 short statements labeled for truthfulness, topic, context/venue, speaker, state, and party. It consists of three tsv-files: train.tsv, valid.tsv, and testing.tsv, used for training, validation, and testing (respectively) of the machine learning models. We have chosen to use all the tsv-files, and have loaded the data (3 MB) into a Pandas DataFrame for further processing and analysis.
 
 ## A list of internal milestones up until project Milestone 2
-- __Week 1__: Load the data into a dataframe and initial analysis to get familiarized with the data.
+- __Week 1__: 
+  - Load the data into a dataframe and initial analysis to get familiarized with the data.
 - __Week 2__:
   - Extract the information relevant to answer the research questions.
   - Find additional data to complement the liar dataset, e.g. state population counts.
-- __Week 3__: Try different vizualization methods for presenting our data, and select the most efficient one.
+- __Week 3__:
+  - Try different vizualization methods for presenting our data, and select the most efficient one.
 
 ## A list of internal milestones up until project Milestone 3
 - __Week 1__: 
