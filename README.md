@@ -3,6 +3,8 @@
 ## Abstract
 In the current era of social media and instant connectivity, the impact of fake news is greater than ever. Not only does it pose a threat to the integrity of journalism, it also creates disturbances and uncertainties in the political world. What's alarming is when people believe what they read, and act upon it. For these reasons, we want to put the spotlight on fake news. More specifically, we will examine the distribution of fake news in the political life of America. In order to achieve this, we will use the liar dataset for fake news detection, created by William Yang Wang. The goal is to find patterns in the generation of fakes news, considering different parties, subjects, and some specific politicians.
 
+The data story can be found [here](https://gjemsvoldrahm.github.io).
+
 ## Research Questions
 Based on the data analysis we carried out for Milestone 2 and the feedback from our assigned TA, we changed the direction of this project in order to focus more on the statements themselves and what we could get out of them. As a consequence, our aims are now the following:
 
@@ -14,7 +16,7 @@ Based on the data analysis we carried out for Milestone 2 and the feedback from 
 
 - See if there are topics that only republicans, or only democrats, lie about, and which topics that are subjected to lies by both parties.
 
-- Use HoloViews to create a graph showing the relationships between the 20 politicians with the highest number of lies.
+- Explore the relationships between the 20 politicians with the highest number of lies.
 
 ## Dataset
 ["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://www.cs.ucsb.edu/~william/papers/acl2017.pdf) by William Yang Wang, Department of Computer Science, University of California, Santa Barbara
@@ -36,7 +38,7 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
   - Create the word cloud
   - Make the directed graph with NetworkX
 - __Week 2__: 
-  - Create the HoloViews graph 
+  - Create a graph in HoloViews showing the relationships between the 20 politicians with the highest number of lies
   - Explore the distribution of topics subjected to fake news between republicans and democrats, and visualize with a Venn diagram
 - __Week 3__:
   - Write a data story with Jekyll
@@ -45,3 +47,5 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
 - __Benjamin Rahm__: preliminary data analysis, maps with Folium, technical work with Jekyll 
 - __Mimmi Gjems__: networks and graphs with NetworkX and HoloViews, word cloud, sentiment analysis
 - __Martin Vold__: natural langauage processing with NLTK and RAKE, Venn diagram 
+
+We will all work together on the poster for the final presentation in January, and then we will decide who will present our work. 
