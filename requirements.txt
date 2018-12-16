@@ -2,7 +2,6 @@ The following libraries are used in the notebook (in addition to the normal dist
 
 RAKE-NLTK	pip install rake-nltk
 Matplotlib-Venn	conda install -c conda-forge matplotlib-venn
-Plotly		conda install -c plotly plotly
 Pygal		pip install pygal
 Igraph		conda install -c vtraag python-igraph
 WordCloud	conda install -c conda-forge wordcloud
