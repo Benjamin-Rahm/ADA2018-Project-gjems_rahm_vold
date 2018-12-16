@@ -48,4 +48,4 @@ The dataset includes 12,836 short statements labeled for truthfulness, topic, co
 - __Mimmi Gjems__: networks and graphs with NetworkX and HoloViews, word cloud, sentiment analysis
 - __Martin Vold__: natural langauage processing with NLTK and RAKE, Venn diagram 
 
-We will all work together on the poster for the final presentation in January, and then we will decide who will present our work. 
+We will all work together on the poster for the final presentation in January. We will decide later who will speak during the presentation. 
