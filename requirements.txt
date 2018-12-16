@@ -1,0 +1,17 @@
+The following libraries are used in the notebook (in addition to the normal distribution of Anaconda)
+
+RAKE-NLTK	pip install rake-nltk
+Matplotlib-Venn	conda install -c conda-forge matplotlib-venn
+Plotly		conda install -c plotly plotly
+Pygal		pip install pygal
+Igraph		conda install -c vtraag python-igraph
+WordCloud	conda install -c conda-forge wordcloud
+HoloViews	conda install -c ioam holoviews
+NLTK		conda install -c anaconda nltk
+NetworkX	conda install -c anaconda networkx
+
+Additionally, the following four lines of code might have to be executed in a code cell before first running the notebook.
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+nltk.download('wordnet')
